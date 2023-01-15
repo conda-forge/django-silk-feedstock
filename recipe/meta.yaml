@@ -22,10 +22,7 @@ requirements:
   run:
     - python >=3.7,<3.11
     - django >=3.2
-    - python-dateutil
-    - requests
     - sqlparse
-    - jinja2
     - autopep8
     - gprof2dot >=2017.09.19
 
