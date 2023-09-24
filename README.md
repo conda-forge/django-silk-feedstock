@@ -1,11 +1,11 @@
-About django-silk
-=================
+About django-silk-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django-silk-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/jazzband/django-silk
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django-silk-feedstock/blob/main/LICENSE.txt)
 
 Summary: Silky smooth profiling for the Django Framework
 
