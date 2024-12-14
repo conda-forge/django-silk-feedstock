@@ -1,13 +1,13 @@
 {% set name = "django-silk" %}
-{% set version = "5.3.1" %}
+{% set version = "5.3.2" %}
 
 package:
   name: {{ name|lower }}
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name.replace('-', '_') }}-{{ version }}.tar.gz
-  sha256: aa4ae73a90fcbd5159a810f81e15a0ec010619beab37c82957eb4012fd0016f0
+  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name.replace('-', '_') }}-{{ version }}.tar.gz
+  sha256: b0db54eebedb8d16f572321bd6daccac0bd3f547ae2618bb45d96fe8fc02229d
 
 build:
   noarch: python
